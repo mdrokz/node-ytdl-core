@@ -35,7 +35,7 @@
     "lint:typings:fix": "tslint --fix typings/index.d.ts"
   },
   "dependencies": {
-    "m3u8stream": "git+https://github.com/mdrokz/m3u8stream",
+    "m3u8stream": "git+https://github.com/mdrokz/node-m3u8stream",
     "sax": "^1.1.3",
     "react-native-streams": "^1.0.5"
   },
